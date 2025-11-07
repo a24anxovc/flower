@@ -1060,8 +1060,8 @@ body {
 /* --- Estilos para el mensaje --- */
 .message {
     position: absolute;
-    left: 5vmin;
-    top: 50%;
+    left: 50%;
+    top: 30%;
     transform: translateY(-50%);
     color: aqua;
     font-size: 5vmin;
@@ -1082,4 +1082,5 @@ body {
     to {
         opacity: 1;
     }
+
 }
