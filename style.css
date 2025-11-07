@@ -1060,9 +1060,9 @@ body {
 /* --- Estilos para el mensaje --- */
 .message {
     position: absolute;
-    left: 40%;
+    left: 5vmin;
     top: 30%;
-    transform: translateY(-40%);
+    transform: translate(-50%, -50%);
     color: aqua;
     font-size: 10vmin;
     font-family: sans-serif;
